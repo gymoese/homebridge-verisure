@@ -26,7 +26,7 @@
   "devDependencies": {
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jest": "^23.1.0",
+    "eslint-plugin-jest": "^23.13.2",
     "eslint": "^6.7.2",
     "hap-nodejs": "^0.7.2",
     "jest": "^25.0.0"
